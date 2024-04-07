@@ -114,6 +114,7 @@ public class Functions {
             testArray.add(id);
         }
         System.out.println("ID призовых игрушек пройденного теста: " + testArray);
+        test = 1;
     }
 
     private void saveResult(String text) {       //метод записи результата лотереи в файл Result.txt
